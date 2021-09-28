@@ -5,7 +5,7 @@ This repo contains the code and data:
 
 In this paper,we propose a novel mutual information maximization strategy (MIM) to enhance the internal connections between tasks. Specifically, MIM jointly learns sentiment classifier and aspect boundary detector, which exploits the token-level scores of boundary detection and sentiment classification to facilitate the learning of each other:
 <p>
-<img src="image/model.PNG" width="400" hight="300">
+<img src="https://raw.githubusercontent.com/cwei01/MIM/main/image/model.png" width="400" hight="300">
 </p>
 
 This framework consists of two components:
