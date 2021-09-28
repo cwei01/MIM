@@ -52,7 +52,7 @@ the learning rate:[0.1,0.01,0.001,0.0001]
 the batch size:[64,128,256]
 the window size:[0,1,2,3,4,5,6,7]
 the weight_kl:[0.0,10^-7,10^-5,10^-3,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0]
-the num_train_epochs:[20,40,50]
+the num_train_epochs:[20,30,40,50]
 ```
 
 ## Acknowledgements
