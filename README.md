@@ -1,4 +1,5 @@
 #Aspect term-polarity co-extraction by mutual information maximization
+
 A PyTorch implementation of Aspect term-polarity co-extraction by mutual information maximization
 
 This repo contains the code and data:
